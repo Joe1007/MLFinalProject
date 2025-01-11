@@ -2,7 +2,7 @@
 ===
 1.Envirnoment
 ---
-The Python version we use is `python 3.10.16`, and we jsued use the `pip install <packagename>`to get package with the default version.
+The Python version we use is `python 3.10.16`, and we jsued use the `pip install <packagename>`to get package with the default version.  
 Use `git clone https://github.com/Joe1007/MLFinalProject/tree/main` to clone the project
 
 2.Run the code
